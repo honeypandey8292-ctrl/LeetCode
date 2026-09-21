@@ -16,4 +16,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
