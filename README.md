@@ -11,6 +11,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -24,8 +25,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
