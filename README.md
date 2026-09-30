@@ -10,6 +10,7 @@
 | [0182-duplicate-emails](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
