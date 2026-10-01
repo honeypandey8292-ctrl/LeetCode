@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
