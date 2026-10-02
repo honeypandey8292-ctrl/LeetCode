@@ -11,6 +11,7 @@
 | [0183-customers-who-never-order](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## String
 | Problem Name | Difficulty |
