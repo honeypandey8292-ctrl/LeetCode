@@ -13,6 +13,7 @@
 | [0197-rising-temperature](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## String
 | Problem Name | Difficulty |
