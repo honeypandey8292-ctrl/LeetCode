@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -60,4 +61,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/honeypandey8292-ctrl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
